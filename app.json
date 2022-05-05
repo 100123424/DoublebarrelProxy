@@ -1,0 +1,7 @@
+{
+  "name": "DoubleBarrel",
+  "description": "a game site with a built in proxy",
+  "repository": "https://github.com/100123424/DoublebarrelProxy/new/main",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}

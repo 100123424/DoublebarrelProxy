@@ -27,4 +27,4 @@ Proxy: https://github.com/titaniumnetwork-dev/alloy
 Base of design since im to lazy to make my own: https://github.com/GitLocked/Git19
 
 
-><img src="https://cdn.glitch.global/70609d46-a3d8-4002-8425-f707ea9fb66c/Untitled.png?v=1651973241954"
+

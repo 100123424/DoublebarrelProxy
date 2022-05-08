@@ -24,7 +24,7 @@ DoubleBarrel contains Alloy Proxy and a bunch of Games. Still A WIP btw!
 Proxy: https://github.com/titaniumnetwork-dev/alloy
 
 
-Base of design since im to lazy to make my own: https://github.com/GitLocked/Git19
+Base of design since im too lazy to make my own: https://github.com/GitLocked/Git19
 
 
 
